@@ -367,4 +367,4 @@ REACT_APP_RAZORPAY_KEY=
 
 Made with ❤️ by **[Manish Thakur](https://github.com/Manishthakur99)**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](www.linkedin.com/in/manishthakur02)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/manishthakur02)
