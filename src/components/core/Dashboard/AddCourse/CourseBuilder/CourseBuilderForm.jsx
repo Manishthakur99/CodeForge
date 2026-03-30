@@ -46,7 +46,7 @@ export default function CourseBuilderForm() {
 
     try {
       const res = await axios.post(
-  "https://your-render-url.onrender.com/api/v1/course/generate-from-youtube",
+  "https://codeforge-fiuf.onrender.com/api/v1/course/generate-from-youtube",
   { 
     playlistUrl: youtubeUrl,
     courseId: course._id
