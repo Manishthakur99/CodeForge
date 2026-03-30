@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mySwiper,
+.mySwiper .swiper-wrapper,
+.mySwiper .swiper-slide {
+  height: 100% !important;
+  width: 100% !important;
+}
+
+.mySwiper .swiper-slide {
+  display: flex;
+  align-items: stretch;
+}
+
+.mySwiper .swiper-slide > div {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+body {
+  background-color: #141414; /* richblack-800 */
+  min-height: 100vh;
+}
+
+#root {
+  background-color: #141414;
+  min-height: 100vh;
+}
+
+html, body, #root {
+  height: 100%;
+  overflow-x: hidden;
+}
