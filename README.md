@@ -359,7 +359,33 @@ REACT_APP_RAZORPAY_KEY=
 
 ## 📸 Screenshots
 
-> Add karo baad mein — Home, Course Detail, Dashboard, Checkout
+### 🏠 Home Page
+![HomePage](https://github.com/user-attachments/assets/df1b7e82-7e36-4083-bf77-561971ec686c)
+
+### 👤 Student Profile
+![StudentProfile](https://github.com/user-attachments/assets/75fc8559-f494-4506-9184-c7cdae209090)
+
+### 📊 Instructor Dashboard
+![InstructorDashboard](https://github.com/user-attachments/assets/028a772a-3a2c-44ed-b623-0424dd44779c)
+
+### ✏️ Profile Edit
+![ProfileEdit](https://github.com/user-attachments/assets/61ba7f8b-9c0f-4e41-abf2-2a3146853e16)
+
+### 📚 Course Section
+![CourseSection](https://github.com/user-attachments/assets/db2dbff3-9258-4170-ab2b-1cdf05e50076)
+
+### 💳 Payment Window
+![PaymentWindow](https://github.com/user-attachments/assets/2a6bfd66-1171-4927-b027-168472dc630f)
+
+### 🎬 Course Player
+![CoursePlayer](https://github.com/user-attachments/assets/f04f6100-2f16-4b73-b953-e59b7bdbbb5e)
+
+### ➕ Add Course
+![AddCourse](https://github.com/user-attachments/assets/6bab28b5-2c1d-4a1b-94e3-6429916488e8)
+
+### 🛒 Cart Section
+![CartSection](https://github.com/user-attachments/assets/7f6b67f8-b945-456b-8471-4a90ed8cfe70)
+
 
 ---
 
