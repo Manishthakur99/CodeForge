@@ -72,7 +72,7 @@ export default function CourseInformationForm() {
 
     try {
       const res = await axios.post(
-        "http://localhost:4000/api/v1/course/generate-from-youtube",
+        "https://codeforge-fiuf.onrender.com/api/v1/course/generate-from-youtube",
         { playlistUrl: youtubeUrl },
         {
           headers: { Authorization: `Bearer ${token}` },
