@@ -288,8 +288,8 @@ codeforge/
 
 ```bash
 # 1. Clone
-git clone https://github.com/YOUR_USERNAME/codeforge.git
-cd codeforge
+git clone https://github.com/Manishthakur99/CodeForge.git
+cd CodeForge
 
 # 2. Backend setup
 cd server
