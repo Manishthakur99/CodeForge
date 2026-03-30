@@ -26,7 +26,7 @@ exports.resetPasswordToken = async (req, res) => {
 		);
 		console.log("DETAILS", updatedDetails);
 
-		const url = `http://localhost:3000/update-password/${token}`;
+		const url = `https://codeforge-manish.vercel.app/update-password/${token}`;
 
 		try {
 			// Mail send try-catch alag rakha
